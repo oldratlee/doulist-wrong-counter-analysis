@@ -1,0 +1,6 @@
+name: doulist-wrong-counter-analysis
+channels:
+- conda-forge
+- defaults
+dependencies:
+- beautifulsoup4

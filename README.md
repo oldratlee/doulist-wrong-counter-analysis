@@ -1,4 +1,4 @@
-# 计数不对的『豆瓣豆列』抓取
+# 计数不对的『豆瓣豆列』抓取 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oldratlee/doulist-wrong-counter-analysis/master)
 
 ## 豆列计数不对的问题说明
 
